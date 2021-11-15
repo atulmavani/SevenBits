@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "493413041909",
+    "firebase_url": "https://test-a6095.firebaseio.com",
+    "project_id": "test-a6095",
+    "storage_bucket": "test-a6095.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:493413041909:android:da8201335d3f9bfc5e67bc",
+        "android_client_info": {
+          "package_name": "com.sevenbits"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "493413041909-u23j2n8elm83cmco3qmqeufbtkc3tetd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCAX0FgwSU-couSk5ptz2A73HjHzVuwMAM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "493413041909-u23j2n8elm83cmco3qmqeufbtkc3tetd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:493413041909:android:53f4081cbf35e9525e67bc",
+        "android_client_info": {
+          "package_name": "com.zplus.pushnotificationfcmapicall"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "493413041909-u23j2n8elm83cmco3qmqeufbtkc3tetd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCAX0FgwSU-couSk5ptz2A73HjHzVuwMAM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "493413041909-u23j2n8elm83cmco3qmqeufbtkc3tetd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
